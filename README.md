@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @captainlkebab
-- 👀 I’m interested in ...
+- 👀 I’m interested in innovative Business Models with AI.
 - 🌱 I’m currently learning business data Science at AAU.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 captainlkebab/captainlkebab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
