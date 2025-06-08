@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @captainlkebab
-- 👀 I’m interested in innovative Business Models with AI.
-- 🌱 I’m currently learning business data Science at AAU.
+Hi I am Samil, currently studying Business Data Science and working on a Music Teacher application.
 
 <!---
 captainlkebab/captainlkebab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
